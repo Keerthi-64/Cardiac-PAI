@@ -62,7 +62,3 @@ Direct external contributions are not being accepted at this time. However, extr
 📄 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-
-
-
-Application for: QbytX AI/ML Intern position
